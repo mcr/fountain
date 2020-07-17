@@ -2,7 +2,7 @@ certifi==2019.3.9
 json-utils==0.2
 numpy==1.16.3
 opencv-python==4.1.0.25
-Pillow==6.0.0
+Pillow==6.2.0
 python-dateutil==2.8.0
 pyzbar==0.1.8
 qrtools==0.0.2
